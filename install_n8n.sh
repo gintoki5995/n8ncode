@@ -33,7 +33,7 @@ else
 fi
 
 # Sử dụng thư mục /home trực tiếp
-N8N_DIR="/n8n"
+N8N_DIR="/home/n8n"
 
 # Cài đặt Docker và Docker Compose
 apt-get update
